@@ -2,10 +2,8 @@
 <h1 align="center"> Hello, I´m <a href="https://sites.google.com/view/brayan-perea-portfolio/home">Brayan</a>👋</h1> 
 </div>
 <img src="https://imgur.com/a/NyLSspv.png">
-<!--
-**BrayanPerea/BrayanPerea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# 💫 About Me:
+<div>
+  # 💫 About Me:
 👋 Hi! I'm a Systems Engineer passionate about technology and continuous learning. I'm always looking to expand my knowledge and skills, both professionally and personally. 🚀<br><br>💻 Technologies I work with:<br><br>Java ☕ | Spring 🌱<br>Unity 🎮 | C# 💻<br>React ⚛️  | SQL/NoSQL 🗄️<br>JavaScript 📜 | HTML & CSS 🎨<br>Power BI 📊 | Python 🐍 <br>And always exploring new tools 🔍<br><br>🎯 My goal is to keep growing as a developer and provide innovative solutions that make an impact. I enjoy working on challenging projects and collaborating with multidisciplinary teams.<br><br>💡 Technology drives my growth and innovation! Interested in collaborating? Feel free to reach out.
 
 
@@ -27,5 +25,10 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BrayanPerea&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
+<!--
+**BrayanPerea/BrayanPerea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
