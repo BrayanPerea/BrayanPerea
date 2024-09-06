@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center"> Hello, I´m <a href="https://sites.google.com/view/brayan-perea-portfolio/home">Brayan</a>👋</h1> 
 </div>
-<img src="https://files.fm/u/74phk4dk3d">
+<img src="https://imgur.com/a/NyLSspv">
 <!--
 **BrayanPerea/BrayanPerea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
