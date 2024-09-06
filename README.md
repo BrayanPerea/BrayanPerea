@@ -2,7 +2,7 @@
 <h1 align="center"> Hello, I´m <a href="https://sites.google.com/view/brayan-perea-portfolio/home">Brayan</a>👋</h1> 
 </div>
 <div align="center">
-  <img src=".BrayanPerea/PortadaLinked.png" alt="Portada" />
+  <img src=".PortadaLinked.png" alt="Portada" />
 </div>
 <div>
   # 💫 About Me:
